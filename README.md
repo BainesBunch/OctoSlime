@@ -1,6 +1,6 @@
 # Octo Slime Tracker firmware for ESP
 
-Firmware for ESP8266 / ESP32 microcontrollers and different the MPU-6050 IMU sensors to use them as a vive-like trackers in VR.
+Firmware for ESP8266 / ESP32 microcontrollers and the MPU-6050 IMU sensors to use them as a vive-like trackers in VR.
 
 Requires [SlimeVR Server](https://github.com/SlimeVR/SlimeVR-Server) to work with SteamVR and resolve pose. Should be compatible with [owoTrack](https://github.com/abb128/owo-track-driver), but is not guaranteed.
 
